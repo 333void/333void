@@ -1,3 +1,4 @@
 # i'm x3
 ## a hobbyist programer
-### what's up
+### from the us
+what's up

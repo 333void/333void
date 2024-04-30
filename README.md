@@ -1,4 +1,4 @@
-# i'm x3 <sup><i>(times three)</i></sup>
+# <i>i'm x3</i>
 ## a hobbyist programer
 ### from the us
 what's good

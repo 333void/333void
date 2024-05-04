@@ -1,4 +1,4 @@
 # i'm x3
 ## a hobbyist programer
 ### from the us
-hello yall
+hey yall
